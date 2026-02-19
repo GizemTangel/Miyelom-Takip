@@ -1,0 +1,9 @@
+{
+  "name": "Miyelom Takip",
+  "description": "Multipl Miyelom hastaları için kapsamlı sağlık ve tedavi takip platformu.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
