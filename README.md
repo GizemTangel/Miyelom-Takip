@@ -36,7 +36,7 @@ Kurulum
 
 Repoyu klonlayın:
 
-git clone https://github.com/kullaniciadi/MiyelomMobil.git
+git clone https://github.com/GizemTangel/MiyelomMobil.git
 
 Proje klasörüne girin:
 
