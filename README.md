@@ -81,3 +81,6 @@ eas.json → Build konfigürasyonu
 🎨 Tasarım Yaklaşımı
 
 Uygulama sade, erişilebilir ve kullanıcı dostu bir tasarım anlayışıyla geliştirilmiştir. Uzun süreli tedavi gören kullanıcıların yaş aralığı ve kullanım kolaylığı ihtiyacı göz önünde bulundurulmuştur. Karmaşık arayüzlerden kaçınılmış, anlaşılır ve net bir kullanıcı deneyimi hedeflenmiştir.
+
+Mevcut build’i buradan takip edebilir ve .apk çıktısını görebilirsiniz:
+https://expo.dev/accounts/gizemtangel/projects/MiyelomMobil/builds/61017c58-3234-417f-b380-6a76bd0bd3dc
